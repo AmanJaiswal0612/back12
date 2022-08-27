@@ -11,7 +11,7 @@ const Url = require('../models/url.model')
 
 
 
-const baseUrl = 'https://url-shortner-aman.herokuapp.com'
+const baseUrl = 'https://u-s-a.herokuapp.com/'
 
 
 
