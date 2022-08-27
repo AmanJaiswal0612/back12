@@ -11,7 +11,7 @@ const Url = require('../models/url.model')
 
 
 
-const baseUrl = 'http:localhost:8080'
+const baseUrl = 'https://url-shortner-aman.herokuapp.com'
 
 
 
